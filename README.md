@@ -15,20 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 *A student, gamer.*
+Hooked on solving algorithms, games, games, and games!
 
-CONTACT
- ↓ ↓ ↓
-
-<a href="mailto:temraire117@gmail.com">
-  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="EmailLink" width=32px>
-</a>
-
-
-<a href="https://steamcommunity.com/profiles/76561198391723816/">
-  <img src="https://store.steampowered.com/favicon.ico" alt="SteamProfile" width=32px>
-</a>   
-<br>
-<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljh020517)](https://solved.ac/ljh020517)
 
@@ -42,3 +30,19 @@ CONTACT
 | ![](https://cdn.cloudflare.steamstatic.com/steam/apps/290340/capsule_184x69.jpg) | [Armello](https://store.steampowered.com/app/290340/Armello/) | 474h |
 | ![](https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_184x69.jpg) | [Monster Hunter: World](https://store.steampowered.com/app/582010/Monster_Hunter_World/) | 460h |
 | ![](https://cdn.cloudflare.steamstatic.com/steam/apps/435150/capsule_184x69.jpg) | [Divinity: Original Sin 2](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/) | 432h |
+
+
+
+
+## CONTACT
+
+<a href="mailto:temraire117@gmail.com">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="EmailLink" width=32px>
+</a>
+
+
+<a href="https://steamcommunity.com/profiles/76561198391723816/">
+  <img src="https://store.steampowered.com/favicon.ico" alt="SteamProfile" width=32px>
+</a>   
+<br>
+<br>
