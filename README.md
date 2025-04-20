@@ -14,14 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+*A student, gamer.*
 
+CONTECT
+ ↓ ↓ ↓
+
+<a href="mailto:temraire117@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="EmailLink" width=32px>
+</a>
+
+
+<a href="https://steamcommunity.com/profiles/76561198391723816/" target="_blank" rel="noopener noreferrer">
+  <img src="https://store.steampowered.com/favicon.ico" alt="SteamProfile" width=32px>
+</a>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljh020517)](https://solved.ac/ljh020517)
 
-<a href="https://steamcommunity.com/profiles/76561198391723816/">
-  <img src="https://store.steampowered.com/favicon.ico", width=32px>
-</a>
 
 ## 🎮 Top 5 Most Played Games
 
