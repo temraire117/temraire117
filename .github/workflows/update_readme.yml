@@ -1,0 +1,36 @@
+name: Update README with Steam Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install requests
+      run: pip install requests
+
+    - name: Run script
+      env:
+        STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        STEAM_ID: ${{ secrets.STEAM_ID }}
+      run: python steam_stats.py
+
+    - name: Commit and push changes
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add README.md
+        git commit -m "🧊 update Steam stats" || echo "No changes to commit"
+        git push
