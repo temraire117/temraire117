@@ -33,6 +33,10 @@ Hooked on solving algorithms, games, games, and games!
 
 
 
+## 🏆 Awards
+---
+- 충북대 SW중심대학사업단 2024년 제2차 Solve-Up 프로그래밍 경진대회 장려상
+
 
 ## CONTACT
 
