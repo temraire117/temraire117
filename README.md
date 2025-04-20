@@ -26,8 +26,9 @@ CONTECT
 
 <a href="https://steamcommunity.com/profiles/76561198391723816/">
   <img src="https://store.steampowered.com/favicon.ico" alt="SteamProfile" width=32px>
-</a>
-
+</a>   
+<br>
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ljh020517)](https://solved.ac/ljh020517)
 
