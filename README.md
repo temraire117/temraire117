@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 *A student, gamer.*
 
-CONTECT
+CONTACT
  ↓ ↓ ↓
 
 <a href="mailto:temraire117@gmail.com">
