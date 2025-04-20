@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 CONTECT
  ↓ ↓ ↓
 
-<a href="mailto:temraire117@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:temraire117@gmail.com">
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="EmailLink" width=32px>
 </a>
 
 
-<a href="https://steamcommunity.com/profiles/76561198391723816/" target="_blank" rel="noopener noreferrer">
+<a href="https://steamcommunity.com/profiles/76561198391723816/">
   <img src="https://store.steampowered.com/favicon.ico" alt="SteamProfile" width=32px>
 </a>
 
